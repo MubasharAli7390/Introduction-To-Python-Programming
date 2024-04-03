@@ -1,0 +1,10 @@
+#Write a program to implement two logical and bitwise operators in Python.
+a = int(input("Enter value of A: "))
+b = int(input("Enter value of B: "))
+print("a > 5 and b < 20 =", a > 5 and b < 20)
+print("a > 5 or b < 20 =", a > 5 or b < 20)
+print("not(a > 5 and b < 20) =", not(a > 5 and b < 20))
+print("a & b =", a & b)
+print("a | b =", a | b)
+print("a ^ b =", a ^ b)
+print("~a=", ~a )
