@@ -1,7 +1,7 @@
 #Write a program that initialize integer, float, string, and Boolean variables in python and print it.
 Name = "Mubashar"
 Age = 18
-Program = "Data Sciencet"
+Program = "Data Science"
 SGPA = 2.5 
 Pass = True
 
